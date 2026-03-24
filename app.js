@@ -8,14 +8,13 @@
 //  FIREBASE CONFIG — Replace with your own config
 // ══════════════════════════════════════════════════════════
 const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyBoBI2lJm4V5V-buMK5jyJPo86LEqvEwxA",
-  authDomain: "raghib-8ddd7.firebaseapp.com",
-  projectId: "raghib-8ddd7",
-  storageBucket: "raghib-8ddd7.firebasestorage.app",
-  messagingSenderId: "815606112897",
-  appId: "1:815606112897:web:8bc3dcbd7aaeb15925a380"
+  apiKey: "AIzaSyC73WeZXt0ld-U-SM1bCDg5XITwHLCKD6w",
+  authDomain: "taskflow-pro-b0a6d.firebaseapp.com",
+  projectId: "taskflow-pro-b0a6d",
+  storageBucket: "taskflow-pro-b0a6d.firebasestorage.app",
+  messagingSenderId: "333223483904",
+  appId: "1:333223483904:web:39aeb63d4d88ff305e56e5"
 };
-
 // ══════════════════════════════════════════════════════════
 //  APP STATE
 // ══════════════════════════════════════════════════════════
