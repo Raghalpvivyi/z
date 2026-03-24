@@ -8,12 +8,12 @@
 //  FIREBASE CONFIG — Replace with your own config
 // ══════════════════════════════════════════════════════════
 const FIREBASE_CONFIG = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBoBI2lJm4V5V-buMK5jyJPo86LEqvEwxA",
+  authDomain: "raghib-8ddd7.firebaseapp.com",
+  projectId: "raghib-8ddd7",
+  storageBucket: "raghib-8ddd7.firebasestorage.app",
+  messagingSenderId: "815606112897",
+  appId: "1:815606112897:web:8bc3dcbd7aaeb15925a380"
 };
 
 // ══════════════════════════════════════════════════════════
